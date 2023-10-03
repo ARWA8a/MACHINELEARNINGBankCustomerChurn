@@ -1,1 +1,1 @@
-"# MACHINELEARNINGBankCustomerChurn"  
+The "Machine Learning Bank Customer Churn Prediction" project aims to develop a machine learning model capable of predicting whether a bank customer is likely to terminate their account (i.e., leave the bank) in the near future. 
